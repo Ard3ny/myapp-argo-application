@@ -1,2 +1,5 @@
 # myapp-argo-application
-argo testing
+
+
+Simple nginx application to test working with argocd.
+
